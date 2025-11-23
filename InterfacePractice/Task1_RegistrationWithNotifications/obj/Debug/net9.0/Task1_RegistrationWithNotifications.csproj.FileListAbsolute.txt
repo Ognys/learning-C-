@@ -1,0 +1,14 @@
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/bin/Debug/net9.0/Task1_RegistrationWithNotifications
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/bin/Debug/net9.0/Task1_RegistrationWithNotifications.deps.json
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/bin/Debug/net9.0/Task1_RegistrationWithNotifications.runtimeconfig.json
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/bin/Debug/net9.0/Task1_RegistrationWithNotifications.dll
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/bin/Debug/net9.0/Task1_RegistrationWithNotifications.pdb
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/obj/Debug/net9.0/Task1_RegistrationWithNotifications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/obj/Debug/net9.0/Task1_RegistrationWithNotifications.AssemblyInfoInputs.cache
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/obj/Debug/net9.0/Task1_RegistrationWithNotifications.AssemblyInfo.cs
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/obj/Debug/net9.0/Task1_RegistrationWithNotifications.csproj.CoreCompileInputs.cache
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/obj/Debug/net9.0/Task1_RegistrationWithNotifications.dll
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/obj/Debug/net9.0/refint/Task1_RegistrationWithNotifications.dll
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/obj/Debug/net9.0/Task1_RegistrationWithNotifications.pdb
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/obj/Debug/net9.0/Task1_RegistrationWithNotifications.genruntimeconfig.cache
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/InterfacePractice/Task1_RegistrationWithNotifications/obj/Debug/net9.0/ref/Task1_RegistrationWithNotifications.dll
