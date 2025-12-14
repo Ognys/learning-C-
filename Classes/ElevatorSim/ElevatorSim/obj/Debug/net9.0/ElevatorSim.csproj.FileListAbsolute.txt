@@ -1,0 +1,15 @@
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/bin/Debug/net9.0/ElevatorSim
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/bin/Debug/net9.0/ElevatorSim.deps.json
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/bin/Debug/net9.0/ElevatorSim.runtimeconfig.json
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/bin/Debug/net9.0/ElevatorSim.dll
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/bin/Debug/net9.0/ElevatorSim.pdb
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/ElevatorSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/ElevatorSim.AssemblyInfoInputs.cache
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/ElevatorSim.AssemblyInfo.cs
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/ElevatorSim.csproj.CoreCompileInputs.cache
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/ElevatorSim.sourcelink.json
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/ElevatorSim.dll
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/refint/ElevatorSim.dll
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/ElevatorSim.pdb
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/ElevatorSim.genruntimeconfig.cache
+/Users/ognys/VSCodeProjects/CSharp/LearningC#/Classes/ElevatorSim/ElevatorSim/obj/Debug/net9.0/ref/ElevatorSim.dll
